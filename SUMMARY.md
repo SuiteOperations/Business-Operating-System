@@ -4,8 +4,8 @@
 
 ## hjk
 
-* [Untitled](hjk/untitled/README.md)
-  * [rpsar4nt](hjk/untitled/rpsar4nt/README.md)
-    * [Untitled](hjk/untitled/rpsar4nt/untitled-1.md)
-* [asdfasdf](hjk/asdfasdf.md)
+* [Purpose of Business](hjk/untitled/README.md)
+  * [Business as a Service](hjk/untitled/business-as-a-service.md)
+  * [Stakeholders](hjk/untitled/stakeholders.md)
+  * [Collection of Resources](hjk/untitled/collection-of-resources.md)
 
