@@ -8,9 +8,9 @@ This manual is an effort to document and layout an approach to building a busine
 
 All sections may not be applicable to all businesses. For example, receiving instructions for a logistics department won't be needed in a software development firm. However, where a section is applicable, it is our best understanding of how accomplish that task or processes.
 
-### Sustainability as our measure
+## Sustainability as our measure
 
-There are times in any business, when it is a wiser long-term decision to take action that reduces profits or growth. In these times, you may be building for a future growth expansion, or preparing for a tough external environment. Our intent has always been to build business that are sustainable and survive over long term as a higher priority than achieving excessive levels of growth or performance. In fact, we find that whenever performance is optimzized for, survival suffers. 
+There are times in any business, when it is a wiser long-term decision to take action that reduces profits or growth. In these times, you may be building for a future growth expansion, or preparing for a tough external environment. Our intent has always been to build business that are sustainable and survive over long term as a higher priority than achieving excessive levels of growth or performance. In fact, we find that whenever performance is optimzized for, survival suffers.
 
 Beyond the survival of the firm, a sustainable business is one that ensures the survival of all stakeholders. This includes making decisions that enhance the ability for the following parties to thrive in any and all environments:
 
@@ -25,7 +25,7 @@ Beyond the survival of the firm, a sustainable business is one that ensures the 
 
 We consider every business to exist within an ecosystem of businesses, communities, families, governments, industries, technologies, and other interacting forces. Every business should promote and contribute to the sustainability of all of these entities, and none at the cost of the other.
 
-### Profits maximzation as destabilizing
+## Profits maximzation as destabilizing
 
 Profits often come at the loss of profit for other parties in the supply chain. This raises risk of suppliers, customers, or other firms in the supply chain, endangering your ability to operate if pushed too far. As profits are taken from suppliers lets say, they have less margin to deal with downturns, quality issues, or future unforeseen events. Unable to absorb any surprise costs and customer charge-backs, a company with extremely thin margins may be at risk of bankruptcy with just one major unforeseen event.
 

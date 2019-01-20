@@ -2,10 +2,17 @@
 
 * [How To Build A Sustainable Businesses](README.md)
 
-## hjk
+## Purpose of Business
 
-* [Purpose of Business](hjk/untitled/README.md)
-  * [Business as a Service](hjk/untitled/business-as-a-service.md)
-  * [Stakeholders](hjk/untitled/stakeholders.md)
-  * [Collection of Resources](hjk/untitled/collection-of-resources.md)
+* [Business as a Service](hjk/business-as-a-service.md)
+* [Purpose of Business](hjk/purpose-of-business/README.md)
+  * [Business as a Service](hjk/purpose-of-business/business-as-a-service.md)
+  * [Stakeholders](hjk/purpose-of-business/stakeholders.md)
+  * [Collection of Resources](hjk/purpose-of-business/collection-of-resources.md)
+* [Stakeholders](hjk/stakeholders.md)
+* [Collection of Resources](hjk/collection-of-resources.md)
+
+## Perspectives
+
+* [Long Term Focus](perspectives/long-term-focus.md)
 
