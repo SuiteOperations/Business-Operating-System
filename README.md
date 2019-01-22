@@ -2,7 +2,7 @@
 description: This is an open source operating guide for you to build a lasting businesses.
 ---
 
-# How To Build A Sustainable Businesses
+# How To Build A Sustainable Business
 
 This manual is an effort to document and layout an approach to building a business that raises the level of success for all stakeholders and prioritizes survival over growth or profits.
 
