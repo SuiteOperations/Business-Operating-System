@@ -18,17 +18,10 @@
 
 ## Customer Manual
 
-* [Untitled](customer-manual/untitled.md)
-
 ## Supplier Manual
-
-* [Untitled](supplier-manual/untitled.md)
 
 ## Quality Manual
 
-* [Untitled](quality-manual/untitled.md)
 
 ## Operations Manual
-
-* [Untitled](operations-manual/untitled.md)
 
