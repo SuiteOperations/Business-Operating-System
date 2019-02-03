@@ -17,5 +17,5 @@ You should request
   * Size of carton for each item
   * Quantity of each carton
   * How many total cartons the shipment is
-  * What is the total Volume (CBM is the used globally)
+  * What is the total volume (CBM is the used globally)
   * What is the total weight (KG is used globally)
