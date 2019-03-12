@@ -8,6 +8,7 @@ The question that matters for each person that works for you is this: "Under wha
 
 #### What conditions?
 Conditions inlcude a number of aspects to their work and personal lives including
+
 * Job Role
 * Work Responsibilities
 * Work Area Layout
@@ -19,6 +20,7 @@ Conditions inlcude a number of aspects to their work and personal lives includin
 * Learning opportunities
 
 Some indivudals work better uninterrupted, able to focus on their work. Others thrive on social interaction. There is no right or wrong, only different people on a spectrum of choices. For example, I prefer to
+
 * be incentived financially, and don't care about other perks
 * work in the dark with a lamp on
 * communicate through digital platforms (it allows me to search, re-read, and better help coworkers)
@@ -28,11 +30,13 @@ Others I work with prefer everything face to face, to have lots of paid for serv
 Conditions are important to people. Individuals spend 8 or more hours a day in an environment that you control. Make it a place they can thrive!
 
 #### Thrive?
+
 We want people to thrive.
 
-What do we mean? 
+What do we mean?
 
 To be
+
 * happy
 * engaged
 * fullfilled
@@ -42,6 +46,7 @@ To be
 We need to remember that what creates this in you, may not create it in others. So first find out who each individual person is, and create a way for them to thrive.
 
 Some examples for each person:
+
 * Do they want lots of benefits and services or little help with high incentives?
 * Do they work better alone or in groups?
 * What drives them?
@@ -50,6 +55,7 @@ Some examples for each person:
 These questions are essentailly endless, but you get the idea.
 
 #### Personality Tests
+
 I find that using some tests help understand who is working with you and how you can help them thrive.
 
 I am against using them for hiring as it creates biases and can lower diversity as you fill a company with a large number of your favorite "type". However, once hired, using them to help create an environment they can thrive in is extremely helpful!
