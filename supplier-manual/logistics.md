@@ -1,11 +1,12 @@
-
 # Logistics
 
 ## Having a supplier request a shipment to you
+
 After suppliers are done with an order, they will often request "how they should ship" to you.
 
 Regardless of your business, you will want to know a few pieces of information in order to set something like this up.
-You should request
+You should request:
+
 * The address of the finished good
 * The contact at the supplier for setting up shipment
 * Incoterms of the shipment

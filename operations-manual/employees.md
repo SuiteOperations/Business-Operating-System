@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Hiring
 
 ## Culture
@@ -56,7 +55,7 @@ I find that using some tests help understand who is working with you and how you
 I am against using them for hiring as it creates biases and can lower diversity as you fill a company with a large number of your favorite "type". However, once hired, using them to help create an environment they can thrive in is extremely helpful!
 
 I personally like the Gallup Clifton Strengths Finder. There are many oither great tests and quizzes though.
-=======
+
 ## Service and Retention
 
 The closer your business is to a commodity, the easier it is for both customers and employees to switch to competitors.
@@ -76,4 +75,3 @@ USHG did this in the restaurant business - a very low margin and high turnover b
 The key is to set up advancement opportunities. Beyond this, having a business model which can support this type of behavior is key. Increasing margins / employee gives you a larger amount of money for investment. Levers which help this is sales efficiency, operational efficiency, and employee productivity. 
 
 https://kwokchain.com/2019/02/22/aligning-business-models-to-markets/
->>>>>>> ef8a8e38db11a6574f0830d80fc295170a071c01
