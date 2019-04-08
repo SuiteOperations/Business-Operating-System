@@ -34,3 +34,5 @@ For quality to really take hold, you will need to focus on all stakeholders. Sta
 * Owners
 * Governments
 * Environment
+
+### Quality breeds excellence

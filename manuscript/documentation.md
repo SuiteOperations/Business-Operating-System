@@ -1,4 +1,4 @@
-## The importance of documentation
+## Documentation
 
 This brings us to the third key aspect of building a sustainable business, documenation. Documenting work, decisions, and outcomes is one of those things that can have a 10x effect on your business. Some of the elements which should be documented in any business include:
 
@@ -10,6 +10,8 @@ This brings us to the third key aspect of building a sustainable business, docum
 * strategies
 * issues
 * performance metrics
+* 
+### The importance of documentation
 
 Documentation allows a business to do a number of things that an undocumented one cannot do.
 
@@ -20,3 +22,5 @@ Documentation allows a business to do a number of things that an undocumented on
 * If you document issues, you will have a running history of every problem you incurred, what caused it, and how it was fixed. This can then be used to assist new hires with correct problem resolution without draining managers time or reproducing already made mistakes.
 
 It is impossible to created an organizationt that continues to develop, adapt, and improve if there is no documented text on where it currently is, how it operates, and where it is going. Like DNA, proper documentation encodes the business in a way that is reviewable. Depending on what is documented, the text might give piles of data to help shift or even completely change company policies, strategies, or processes.
+
+### Methods of documentation
