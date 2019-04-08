@@ -1,3 +1,4 @@
 introduction.md
-perspectives.md
-./operations-manual/employees.md
+quality.md
+evolution.md
+documentation.md
