@@ -1,3 +1,5 @@
+# Employees
+
 ## Types of Employees
 
 We have created 3 characteristics for all employees. These characteristics help set expectations and limits. We try to only set limits where neccessary, and the ones we do set have specific reasons. This said, expectations are different for different types of employees, and thus comparing can lead to some issues.

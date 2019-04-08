@@ -1,9 +1,6 @@
 ---
 description: This is an open source operating guide for you to build a lasting businesses.
 ---
-`Pip install leanpub`
-
-Run `leanpub book` to generate a pdf
 
 # How To Build A Sustainable Business
 
@@ -72,7 +69,7 @@ For quality to really take hold, you will need to focus on all stakeholders. Sta
 * Owners
 * Governments
 * Environment
-	  
+  
 
 ## Evolutionary Nature
 
@@ -87,25 +84,25 @@ If you want to build a sustainable business, you will slow your growth a bit. Yo
 While specific processes and methods are discussed elsewhere in this manual, a general outline can be found below. You must build in regular and scheduled reviews and revisions. Some things to build in include:
 
 1. Review and revise the organizational context.
-  2. Who are the stakeholders?
-  3. What are their needs and expectations?
-  4. How can each contribute to the organization?
+  * Who are the stakeholders?
+  * What are their needs and expectations?
+  * How can each contribute to the organization?
 2. Review and revise the company purpose.
-  6. Mission
-  7. Vision
-  8. Values
-  9. Culture
+  * Mission
+  * Vision
+  * Values
+  * Culture
 3. What are short and long term risks and opportunities?
 4. What are the current strategies, policies, and objectives?
 5. What are the critical processes that support the above? Are they achieving or should they be adjusted, changed, removed, added?
 6. Review and revise resource use
-  14. How are resources being deployed?
-  15. Are they getting a return?
-  16. Are they being wasted?
-  17. Consider time, money, equipment, assets, skills, capabilities, capacity, networks, product reach, brand
+  * How are resources being deployed?
+  * Are they getting a return?
+  * Are they being wasted?
+  * Consider time, money, equipment, assets, skills, capabilities, capacity, networks, product reach, brand
 7. Review firm performance (conscience capitalism)
-  19. Financial
-  20. Environmental
-  21. Objective achievement
-  22. Social good 
+  * Financial
+  * Environmental
+  * Objective achievement
+  * Social good 
 8. Make sure all areas of business have learning and improvement process built in.
