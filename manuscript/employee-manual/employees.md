@@ -1,4 +1,4 @@
-# Employees
+# Employee Manual
 
 ## Types of Employees
 

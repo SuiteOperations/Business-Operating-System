@@ -1,7 +1,8 @@
-# Perspectives
+## Appendix 1 - Perspectives
 
-## Long Term Focus
+### Long Term Focus
 
-## Experimental
+### Experimental
 
-## Compounding
+### Compounding
+

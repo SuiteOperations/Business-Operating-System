@@ -1,6 +1,6 @@
-# Logistics
+## Logistics
 
-## Having a supplier request a shipment to you
+### Having a supplier request a shipment to you
 
 After suppliers are done with an order, they will often request "how they should ship" to you.
 
