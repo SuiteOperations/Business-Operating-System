@@ -14,6 +14,8 @@ operations-manual/risk-mitigation-policies.md
 operations-manual/finance/finance.md
 operations-manual/logistics/receiving.md
 
+strategy-manual/restructuring.md
+
 employee-manual/employees.md
 
 
